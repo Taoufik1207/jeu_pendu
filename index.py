@@ -52,7 +52,6 @@ def jouer_pendu():
         else:
             print("Lettre incorrecte.")
             nb_essais = # à compléter
-            afficher_pendu(-nb_essais)
 
     if nb_essais == 0:
         print("\nDommage ! Vous avez épuisé tous vos essais. Le mot était :", ) # à compléter

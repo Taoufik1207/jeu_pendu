@@ -58,4 +58,5 @@ def afficher_pendu(nb_essais):
         =========
         '''
     ]
+
     print(pendu[nb_essais])
